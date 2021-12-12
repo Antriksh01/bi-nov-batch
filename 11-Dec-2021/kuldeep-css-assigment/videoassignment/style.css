@@ -1,0 +1,17 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    background-color: #1e272e;
+}
+
+.title{
+    background-color: #d2dae2;
+    height: 30px;
+    width: 100%;
+    font-size: 15px;
+    padding: 5px;
+    font-family: cursive;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+

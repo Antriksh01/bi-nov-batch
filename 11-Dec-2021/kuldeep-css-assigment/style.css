@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+body{
+    background-color: black;
+    
+    
+}
+
+.title{
+    background-color: #95afc0;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: black;
+    
+}
+.centerdiv{
+    margin: 2%;
+    background-color: #d1d8e0;
+    font-family: cursive;
+}
+
+p, h3{
+    margin: 20px;
+    padding: 5px;
+}
+
+ul{
+    margin: 40px;
+}
+
+h2{
+    margin: 20px;
+}
+
