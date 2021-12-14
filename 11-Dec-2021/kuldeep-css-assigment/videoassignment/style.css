@@ -15,3 +15,9 @@ body{
     margin-bottom: 10px;
 }
 
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-left: 50px;
+}
